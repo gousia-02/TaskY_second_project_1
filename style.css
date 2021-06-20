@@ -1,0 +1,17 @@
+body {
+    background-color: #dde8fc;
+    font-family: "Caveat Brush", sans-serif;
+}
+
+.navbar-custom {
+    background-color: #ab47bc;
+}
+
+.form-control {
+    border-color: #ab47bc;
+}
+
+.card-img-top {
+    height: 250px;
+    width: auto;
+}
