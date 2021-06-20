@@ -4,11 +4,15 @@ body {
 }
 
 .navbar-custom {
-    background-color: #ab47bc;
+    background-color: #340143;
 }
 
 .form-control {
-    border-color: #ab47bc;
+    border-color: #340143;
+}
+
+.input-group-text {
+    border-color: #340143;
 }
 
 .card-img-top {
