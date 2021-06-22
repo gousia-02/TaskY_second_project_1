@@ -19,3 +19,7 @@ body {
     height: 250px;
     width: auto;
 }
+
+.navbar-brand {
+    text-decoration: underline;
+}
